@@ -1,8 +1,7 @@
 #include "lists.h"
 #include <stdlib.h>
-#include <stddef.h>
 /**
- * insert_node - to add an element to the sorted lined list
+ * insert_node - add an element to the sorted lined list
  * @head: listint_t's head
  * @n: int value
  * Return: adress of the new node | NULL (failed)
