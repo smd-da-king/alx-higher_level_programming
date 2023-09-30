@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Get rails repo last 10 commits id and author."""
+"""Get rails repo last 10 commits id and the authors."""
 
 import requests
 import sys
